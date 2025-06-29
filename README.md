@@ -26,6 +26,11 @@ I'm currently learning data analysis using Python, Pandas, and Excel — and thi
 - Grouped, sorted, and filtered the data for insights
 - Created summary KPIs and converted code to `.py`
 
+### 📁 [Day 9 – Excel Pivot Dashboard](./Day%209/)
+- Built interactive dashboard using Pivot Tables
+- Summarized sales by region, product, and salesperson
+- Designed KPI section and added charts
+
 
 ## 🧠 Skills Learned So Far
 - Python
