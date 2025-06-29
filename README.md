@@ -21,6 +21,11 @@ I'm currently learning data analysis using Python, Pandas, and Excel — and thi
 - Applied formulas like `SUMIFS`, `AVERAGEIFS`, `COUNTIFS`
 - Included bar, pie, and line charts for sales insights
 
+### 📁 [Day 8 – Mini Data Analysis (CSV)](./Day%208/)
+- Loaded and analyzed a real dataset using Pandas
+- Grouped, sorted, and filtered the data for insights
+- Created summary KPIs and converted code to `.py`
+
 
 ## 🧠 Skills Learned So Far
 - Python
