@@ -37,6 +37,10 @@ I’m now actively looking for a **paid internship** to apply and grow my data s
 - Designed KPIs: Total Sales, Best Region, Units Sold
 - Visualized with bar and pie charts
 
+### 📁 [Day 10 – Python Calculator](./Day%2010/)
+- Built a command-line calculator using Python
+- Practiced conditional logic, operators, and error handling
+
 ---
 
 ## 📜 Certifications
