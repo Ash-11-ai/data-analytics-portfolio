@@ -1,40 +1,55 @@
-# 📊 Data Analytics Portfolio 
-Welcome to my Data Analytics Portfolio!  
-I'm currently learning data analysis using Python, Pandas, and Excel — and this repo documents my journey to becoming internship-ready.
+# 📊 Data Analytics Portfolio – Ashutosh Mishra
+
+Hi! I'm Ashutosh, a B.Sc. Zoology student (2024–2027) at Delhi University and a self-taught Data Analytics enthusiast.  
+Over the past 10 days, I completed a self-guided bootcamp in Python, Pandas, and Excel — building real projects using real datasets.  
+I’m now actively looking for a **paid internship** to apply and grow my data skills.
 
 ---
 
-## 🚀 Projects So Far:
+## 💼 Skills & Tools
+- **Languages:** Python, Pandas, NumPy, Matplotlib
+- **Excel:** Pivot Tables, Dashboards, VLOOKUP, Filtering, SUMIFS
+- **Platforms:** Google Colab, GitHub, Kaggle
+- **Core Skills:** Data Cleaning, Filtering, Grouping, Visualization, KPI Calculation
 
-### 📁 [Day 5 – Sales Data with Pandas](./Day%205/)
-- Loaded CSV file using Pandas
-- Explored data with `.head()`, `.info()`, `.describe()`
-- Grouped sales data by region
+---
+
+## 🚀 Projects (10-Day Bootcamp)
+
+### 📁 [Day 5 – Sales Data Practice (Pandas)](./Day%205/)
+- Loaded CSV data with Pandas
+- Used `.head()`, `.info()`, `.groupby()`, and basic summaries
 
 ### 📁 [Day 6 – Data Cleaning & Filtering](./Day%206/)
-- Removed nulls and duplicates
-- Filtered rows by region and sales amount
-- Sorted rows by total sales
+- Cleaned sales data: removed nulls, duplicates
+- Filtered rows by region and calculated “Total Sales”
 
-### 📁 [Day 7 – Excel Sales Dashboard](./Day%207/)
-- Built a professional dashboard using Excel
-- Applied formulas like `SUMIFS`, `AVERAGEIFS`, `COUNTIFS`
-- Included bar, pie, and line charts for sales insights
+### 📁 [Day 7 – Excel Dashboard](./Day%207/)
+- Created interactive dashboard using Excel
+- Used formulas and charts for region/product-wise insights
 
-### 📁 [Day 8 – Mini Data Analysis (CSV)](./Day%208/)
-- Loaded and analyzed a real dataset using Pandas
-- Grouped, sorted, and filtered the data for insights
-- Created summary KPIs and converted code to `.py`
+### 📁 [Day 8 – Mini Sales Analysis (CSV)](./Day%208/)
+- Analyzed real sales dataset using Pandas
+- Grouped by region/product/person and filtered high sales
 
-### 📁 [Day 9 – Excel Pivot Dashboard](./Day%209/)
-- Built interactive dashboard using Pivot Tables
-- Summarized sales by region, product, and salesperson
-- Designed KPI section and added charts
+### 📁 [Day 9 – Pivot Table Excel Dashboard](./Day%209/)
+- Built dynamic Excel dashboard with Pivot Tables
+- Designed KPIs: Total Sales, Best Region, Units Sold
+- Visualized with bar and pie charts
 
+---
 
-## 🧠 Skills Learned So Far
-- Python
-- Pandas
-- Microsoft Excel
-- Google Colab
-- GitHub
+## 📜 Certifications
+- [✔️ Introduction to Data Analysis using Excel – Coursera](https://coursera.org/verify/G5Y0NHRC5ALB)  
+- ✔️ Intro to Programming – Kaggle Learn
+
+---
+
+## 🔗 Connect with Me
+- [GitHub](https://github.com/Ash-11-ai)
+- [LinkedIn](https://www.linkedin.com/in/ashutosh-mishra-62017936a/)
+
+---
+
+💡 _Looking for internship opportunities in Data Analytics (remote)_  
+📩 _Reach out at_ **ashutosh.11065@gmail.com**
