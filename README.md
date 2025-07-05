@@ -1,14 +1,15 @@
 # 📊 Data Analytics Portfolio – Ashutosh Mishra
 
 Hi! I'm Ashutosh, a B.Sc. Zoology student (2024–2027) at Delhi University and a self-taught Data Analytics enthusiast.  
-Over the past 10 days, I completed a self-guided bootcamp in Python, Pandas, and Excel — building real projects using real datasets.  
-I’m now actively looking for a **paid internship** to apply and grow my data skills.
-
+Over the past few weeks, I completed a self-guided bootcamp covering Python, Pandas, Excel, SQL, and Power BI — building real projects using real datasets.
+I’m now actively looking for a paid internship to apply and grow my data skills.
 ---
 
 ## 💼 Skills & Tools
 - **Languages:** Python, Pandas, NumPy, Matplotlib
+- **SQL:** Joins, Aggregation, Group By, Filtering, Subqueries
 - **Excel:** Pivot Tables, Dashboards, VLOOKUP, Filtering, SUMIFS
+- **BI Tools:** Power BI (KPIs, charts, slicers, dashboards)
 - **Platforms:** Google Colab, GitHub, Kaggle
 - **Core Skills:** Data Cleaning, Filtering, Grouping, Visualization, KPI Calculation
 
@@ -41,6 +42,39 @@ I’m now actively looking for a **paid internship** to apply and grow my data s
 - Built a command-line calculator using Python
 - Practiced conditional logic, operators, and error handling
 
+
+
+## 🟦 SQL Projects
+
+#### 📘 Exercise 1 – Getting Started with SQL and BigQuery  
+**Topics Covered:**  
+- Introduction to Google BigQuery  
+- SQL syntax basics  
+- Previewing datasets and exploring table schema  
+- Running your first `SELECT` query  
+
+📄 [exercise-getting-started-with-sql-and-bigquery.ipynb](./SQL/exercise-getting-started-with-sql-and-bigquery.ipynb)
+
+---
+
+#### 📘 Exercise 2 – SELECT, FROM & WHERE  
+**Topics Covered:**  
+- Writing `SELECT` queries  
+- Selecting multiple columns  
+- Using the `WHERE` clause to filter data  
+- Understanding Boolean conditions in SQL  
+
+📄 [exercise-select-from-where.ipynb](./SQL/exercise-select-from-where.ipynb)
+
+
+
+## 🟨 Power BI Projects
+
+**Day 1 – Sales Dashboard**
+- Region-wise sales bar chart
+- KPI card showing total sales
+- Interactive slicers and summary table
+- 📁 [`PowerBI/Day-1-Sales-Dashboard.pbix`](./PowerBI/Day-1-Sales-Dashboard.pbix)
 ---
 
 ## 📜 Certifications
