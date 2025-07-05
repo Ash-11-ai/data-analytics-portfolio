@@ -80,6 +80,7 @@ I’m now actively looking for a paid internship to apply and grow my data skill
 ## 📜 Certifications
 - [✔️ Introduction to Data Analysis using Excel – Coursera](https://coursera.org/verify/G5Y0NHRC5ALB)  
 - ✔️ Intro to Programming – Kaggle Learn
+- ✔️ Python - Kaggle Learn
 
 ---
 
