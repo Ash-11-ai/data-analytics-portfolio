@@ -66,7 +66,29 @@ I’m now actively looking for a paid internship to apply and grow my data skill
 
 📄 [exercise-select-from-where.ipynb](./SQL/exercise-select-from-where.ipynb)
 
+---
 
+#### 🔷 Exercise 3 – GROUP BY, HAVING & COUNT  
+**Topics Covered:**  
+- Using `GROUP BY` to aggregate results  
+- Applying `HAVING` to filter grouped data  
+- Counting items per category  
+- Combining `GROUP BY` with `WHERE` clauses
+
+[exercise-group-by-having-count.ipynb](./SQL/exercise-group-by-having-count.ipynb)
+
+---
+
+#### 🔷 Exercise 4 – ORDER BY  
+**Topics Covered:**  
+- Sorting query results using `ORDER BY`  
+- Sorting in ascending (`ASC`) and descending (`DESC`) order  
+- Using `ORDER BY` with `LIMIT`  
+- Multi-column sorting for deeper analysis
+
+[exercise-order-by.ipynb](./SQL/exercise-order-by.ipynb)
+
+---
 
 ## 🟨 Power BI Projects
 
