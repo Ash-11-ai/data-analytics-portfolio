@@ -97,6 +97,14 @@ I’m now actively looking for a paid internship to apply and grow my data skill
 - KPI card showing total sales
 - Interactive slicers and summary table
 - 📁 [`PowerBI/Day-1-Sales-Dashboard.pbix`](./PowerBI/Day-1-Sales-Dashboard.pbix)
+
+### Day 2 – Product Sales Dashboard
+- Product-wise sales column chart
+- Slicer to filter by region
+- KPI card displaying total sales
+- Dataset includes Date, Product, Region, Sales, Quantity, Profit
+- 📂 [PowerBI/Day-2-Product-Sales-Dashboard.pbix](./PowerBI/Day-2-Product-Sales-Dashboard.pbix)
+
 ---
 
 ## 📜 Certifications
